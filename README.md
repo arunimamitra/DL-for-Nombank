@@ -1,4 +1,4 @@
-# Semantic Role Labelling on NomBank Dataset
+# Semantic Role Labeling on NomBank Dataset
  
 * Built and analyzed deep learning models for partitive noun identification (ARG1) in the Nombank Dataset
 * Utilized feature engineering to incorporate word and token level features
