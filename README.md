@@ -7,11 +7,11 @@
 ---
 ### DATASET
 
-NomBank provides argument structure for over 5000 common nouns in the Penn Treebank corpus.
+NomBank provides argument structure for over 5000 common nouns in the Penn Treebank corpus.<br>
 Our training set includes 84169 sentences, or
-58993 ARG1 tokens. The development set
+58993 ARG1 tokens.<br>The development set
 contains 3234 sentences and a total of 2343
-ARG1 labels. Our test set has 5381 sentences
+ARG1 labels. <br>Our test set has 5381 sentences
 with 3805 ARG1 labels.
 
 ---
